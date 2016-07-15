@@ -879,3 +879,12 @@ footer a:hover {
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) { }
 
+.icon {
+  width: 40px;
+  height: 40px;
+}
+
+.smallicon {
+  width: 30px;
+  height: 30px;
+}
